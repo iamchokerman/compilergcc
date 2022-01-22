@@ -7,18 +7,17 @@ gcc-multilib
 
 ### How to install dependencies
 
-*Ubuntu/Debian
+* Ubuntu/Debian
 ```
 sudo apt-get install nasm 
 sudo apt-get install gcc-multilib
 ```
 
-*Arch
+* Arch
 
 ```
 sudo pacman -S nasm
 sudo pacman -S gcc-multilib
-
 ```
 
 ## Usage
