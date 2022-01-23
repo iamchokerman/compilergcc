@@ -21,11 +21,13 @@ sudo pacman -S gcc-multilib
 ```
 
 ## Installation
+* paste the commands below in your terminal (you can do all 3 at the same time)
 ```
-git clone 
+git clone https://github.com/iamchokerman/compilergss.git
 cd compilergss/
-chmod +x
+chmod +x compile.sh remove.sh
 ```
+* move the compile.sh and remove.sh files to the same destination as your .asm file/files
 
 ## Usage
 
