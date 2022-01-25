@@ -1,4 +1,3 @@
-testing
 ## Dependencies
 
 ```
@@ -21,8 +20,16 @@ sudo pacman -S nasm
 sudo pacman -S gcc-multilib
 ```
 
+## Installation
+* paste the commands below in your terminal (you can do all 3 at the same time)
+```
+git clone https://github.com/iamchokerman/compilergss
+cd compilergss/
+sudo make
+```
+
 ## Usage
 
-* ```./compile.sh <filename>``` or ```./compile.sh``` and follow instructions to compile .asm files 
+* ```compile <filename>``` or ```compile``` and follow instructions to compile .asm files 
 
-* ```./remove.sh <filename>``` or ```./remove.sh``` and follow instructions to remove .o files after compiling
+* ```remove <filename>``` or ```remove``` and follow instructions to remove .o files after compiling
