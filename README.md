@@ -23,8 +23,8 @@ sudo pacman -S gcc-multilib
 ## Installation
 * paste the commands below in your terminal (you can do all 3 at the same time)
 ```
-git clone https://github.com/iamchokerman/compilergss
-cd compilergss/
+git clone https://github.com/iamchokerman/compilergcc
+cd compilergcc/
 sudo make
 ```
 
